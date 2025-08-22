@@ -4,5 +4,5 @@ Atualmente o código é direto do "Simpósio VR" De Classroom. Devera ser feitos
 *Data de Entrega: 29/08*
 
 *Devera escolher as seguinte coisas:*
-- Cenario (360)
+- Cenario (360) Sala de Aula (Alexia Escolheu)
 - Personagens
